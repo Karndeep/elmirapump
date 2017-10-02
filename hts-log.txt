@@ -1,0 +1,183 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Oct 2017 10:40:20 at https://elmirapump.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://elmirapump.com/ -O1 "C:\Users\kkahlon3672\Desktop\elmira pump" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:40:46	Error: 	"Forbidden" (403) at link https://elmirapump.com/xmlrpc.php (from https://elmirapump.com/)
+10:41:13	Error: 	"Not Found" (404) at link https://elmirapump.com/index.php/wp-json/ (from https://elmirapump.com/)
+10:41:45	Warning: 	Moved Temporarily for https://elmirapump.com/index.php/checkout/
+10:41:45	Warning: 	File has moved from https://elmirapump.com/index.php/checkout/ to https://elmirapump.com/index.php/cart/
+10:43:22	Error: 	"Not Found" (404) at link https://elmirapump.com/index.php/custom-projects-and-product-inquiries/ (from https://elmirapump.com/)
+10:43:23	Error: 	"Not Found" (404) at link https://elmirapump.com/index.php/about-elmira-pump-company/ (from https://elmirapump.com/)
+10:43:42	Error: 	"Not Found" (404) at link https://elmirapump.com/index.php/product/no-name-brand-filters/ (from https://elmirapump.com/)
+10:43:46	Error: 	"Not Found" (404) at link https://elmirapump.com/index.php/product/champion-pump/ (from https://elmirapump.com/)
+10:43:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=1678
+10:43:52	Warning: 	File has moved from https://elmirapump.com/?p=1678 to https://elmirapump.com/index.php/about-us/
+10:43:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=2
+10:43:52	Warning: 	File has moved from https://elmirapump.com/?p=2 to https://elmirapump.com/index.php/sample-page/
+10:43:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=539
+10:43:52	Warning: 	File has moved from https://elmirapump.com/?p=539 to https://elmirapump.com/index.php/product/centrifugal-pump/
+10:49:10	Warning: 	Moved Permanently for https://elmirapump.com/?p=10
+10:49:10	Warning: 	File has moved from https://elmirapump.com/?p=10 to https://elmirapump.com/index.php/cart/
+10:49:51	Warning: 	Moved Permanently for https://elmirapump.com/?p=12
+10:49:51	Warning: 	File has moved from https://elmirapump.com/?p=12 to https://elmirapump.com/index.php/my-account/
+10:49:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=24
+10:49:52	Warning: 	File has moved from https://elmirapump.com/?p=24 to https://elmirapump.com/index.php/contact/
+10:49:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=374
+10:49:52	Warning: 	File has moved from https://elmirapump.com/?p=374 to https://elmirapump.com/index.php/ef-centrifugal-pumps/
+10:49:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=465
+10:49:52	Warning: 	File has moved from https://elmirapump.com/?p=465 to https://elmirapump.com/index.php/champion-pump/
+10:49:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=371
+10:49:52	Warning: 	File has moved from https://elmirapump.com/?p=371 to https://elmirapump.com/index.php/filter-press/
+10:49:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=148
+10:49:52	Warning: 	File has moved from https://elmirapump.com/?p=148 to https://elmirapump.com/index.php/10-gal-ro-system/
+10:49:52	Warning: 	Moved Permanently for https://elmirapump.com/?p=191
+10:49:52	Warning: 	File has moved from https://elmirapump.com/?p=191 to https://elmirapump.com/index.php/belt-filter/
+10:50:23	Warning: 	Moved Permanently for https://elmirapump.com/?p=114
+10:50:23	Warning: 	File has moved from https://elmirapump.com/?p=114 to https://elmirapump.com/index.php/terms-conditions/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=669
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=669 to https://elmirapump.com/index.php/product/1527/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=670
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=670 to https://elmirapump.com/index.php/product/155/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=647
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=647 to https://elmirapump.com/index.php/product/301/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=649
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=649 to https://elmirapump.com/index.php/product/560a/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=675
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=675 to https://elmirapump.com/index.php/product/59b/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=674
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=674 to https://elmirapump.com/index.php/product/59u/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=659
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=659 to https://elmirapump.com/index.php/product/685/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=658
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=658 to https://elmirapump.com/index.php/product/686/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=656
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=656 to https://elmirapump.com/index.php/product/687/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=657
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=657 to https://elmirapump.com/index.php/product/688/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=673
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=673 to https://elmirapump.com/index.php/product/8-1/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/?p=672
+10:51:49	Warning: 	File has moved from https://elmirapump.com/?p=672 to https://elmirapump.com/index.php/product/8-1t/
+10:51:49	Warning: 	Moved Permanently for https://elmirapump.com/index.php/shop/page/1/
+10:51:49	Warning: 	File has moved from https://elmirapump.com/index.php/shop/page/1/ to https://elmirapump.com/index.php/shop/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=604
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=604 to https://elmirapump.com/index.php/product/flow-meter-z-3002t/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=587
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=587 to https://elmirapump.com/index.php/product/flow-meter-z-3003t/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=589
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=589 to https://elmirapump.com/index.php/product/flow-meter-z-3004t/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=591
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=591 to https://elmirapump.com/index.php/product/flow-meter-z-300kt3/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=586
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=586 to https://elmirapump.com/index.php/product/flow-meter-z-300kt4/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=590
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=590 to https://elmirapump.com/index.php/product/flow-meter-z-300kt5/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=588
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=588 to https://elmirapump.com/index.php/product/flow-meter-z-300kt6/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=584
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=584 to https://elmirapump.com/index.php/product/flow-meter-z-300kt7/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=602
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=602 to https://elmirapump.com/index.php/product/flow-meter-z-4001/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=603
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=603 to https://elmirapump.com/index.php/product/flow-meter-z-4002/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=600
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=600 to https://elmirapump.com/index.php/product/flow-meter-z-4003/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=597
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=597 to https://elmirapump.com/index.php/product/flow-meter-z-4004/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/index.php/product-category/flow-meters/page/1/
+10:52:09	Warning: 	File has moved from https://elmirapump.com/index.php/product-category/flow-meters/page/1/ to https://elmirapump.com/index.php/product-category/flow-meters/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/index.php/product-category/mechanical-seals/page/1/
+10:52:09	Warning: 	File has moved from https://elmirapump.com/index.php/product-category/mechanical-seals/page/1/ to https://elmirapump.com/index.php/product-category/mechanical-seals/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=583
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=583 to https://elmirapump.com/index.php/product/flow-meter-z-4005/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=592
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=592 to https://elmirapump.com/index.php/product/flow-meter-z-4006/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=595
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=595 to https://elmirapump.com/index.php/product/flow-meter-z-4007/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=593
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=593 to https://elmirapump.com/index.php/product/flow-meter-z-4008/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=594
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=594 to https://elmirapump.com/index.php/product/flow-meter-z-4009/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=599
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=599 to https://elmirapump.com/index.php/product/flow-meter-z-5008/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=693
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=693 to https://elmirapump.com/index.php/product/flow-meter-z-5025/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=598
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=598 to https://elmirapump.com/index.php/product/flow-meter-z-5032/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/index.php/product-category/flow-meters/vertical/page/1/
+10:52:09	Warning: 	File has moved from https://elmirapump.com/index.php/product-category/flow-meters/vertical/page/1/ to https://elmirapump.com/index.php/product-category/flow-meters/vertical/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=650
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=650 to https://elmirapump.com/index.php/product/bia/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=651
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=651 to https://elmirapump.com/index.php/product/fbd/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=646
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=646 to https://elmirapump.com/index.php/product/t1/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=639
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=639 to https://elmirapump.com/index.php/product/t10t/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=645
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=645 to https://elmirapump.com/index.php/product/t1a/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=643
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=643 to https://elmirapump.com/index.php/product/t2/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=638
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=638 to https://elmirapump.com/index.php/product/t21/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=633
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=633 to https://elmirapump.com/index.php/product/t2100/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=635
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=635 to https://elmirapump.com/index.php/product/t502/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=642
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=642 to https://elmirapump.com/index.php/product/t6/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/index.php/product-category/mechanical-seals/elastomer-bellow-seals/page/1/
+10:52:09	Warning: 	File has moved from https://elmirapump.com/index.php/product-category/mechanical-seals/elastomer-bellow-seals/page/1/ to https://elmirapump.com/index.php/product-category/mechanical-seals/elastomer-bellow-seals/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=652
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=652 to https://elmirapump.com/index.php/product/gls-1/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=653
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=653 to https://elmirapump.com/index.php/product/gls-2/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=654
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=654 to https://elmirapump.com/index.php/product/gls-3/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=655
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=655 to https://elmirapump.com/index.php/product/gls-4/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=671
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=671 to https://elmirapump.com/index.php/product/8b1/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=668
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=668 to https://elmirapump.com/index.php/product/h7n/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=667
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=667 to https://elmirapump.com/index.php/product/hj92n/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=666
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=666 to https://elmirapump.com/index.php/product/m2n/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=665
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=665 to https://elmirapump.com/index.php/product/m3/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=663
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=663 to https://elmirapump.com/index.php/product/m32/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=662
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=662 to https://elmirapump.com/index.php/product/m32n/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=661
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=661 to https://elmirapump.com/index.php/product/m37/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/index.php/product-category/mechanical-seals/o-ring-seals/page/1/
+10:52:09	Warning: 	File has moved from https://elmirapump.com/index.php/product-category/mechanical-seals/o-ring-seals/page/1/ to https://elmirapump.com/index.php/product-category/mechanical-seals/o-ring-seals/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=677
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=677 to https://elmirapump.com/index.php/product/9b/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=676
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=676 to https://elmirapump.com/index.php/product/9t/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=596
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=596 to https://elmirapump.com/index.php/product/flow-meter-z-5050/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=601
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=601 to https://elmirapump.com/index.php/product/flow-meter-z-5065/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=660
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=660 to https://elmirapump.com/index.php/product/m74d/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=664
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=664 to https://elmirapump.com/index.php/product/m7n/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=641
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=641 to https://elmirapump.com/index.php/product/t9/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=628
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=628 to https://elmirapump.com/index.php/product/tmg1/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=626
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=626 to https://elmirapump.com/index.php/product/tmg912/
+10:52:09	Warning: 	Moved Permanently for https://elmirapump.com/?p=622
+10:52:09	Warning: 	File has moved from https://elmirapump.com/?p=622 to https://elmirapump.com/index.php/product/wb2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 49 seconds : 872 links scanned, 781 files written (23925010 bytes overall) [24578985 bytes received at 34667 bytes/sec], 8.5 requests per connection
+(6 errors, 166 warnings, 0 messages)
